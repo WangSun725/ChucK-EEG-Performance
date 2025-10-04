@@ -1,0 +1,20 @@
+//Machine.add(me.dir() + "/maincommanddrum.ck") => int drumID;
+//Machine.add(me.dir() + "percloop.ck") => int percID;
+//Machine.add(me.dir() + "percloop2.ck") => int perc2ID;
+//Machine.add(me.dir() + "drop bass1.ck") => int dropbass1ID;
+//Machine.add(me.dir() + "basswitharduino.ck") => int bassthickID;
+
+Machine.add(me.dir() + "percloop3.ck") => int perc3ID;
+Machine.add(me.dir() + "perclooptex.ck") => int texID;
+Machine.add(me.dir() + "simple arp2.ck") => int arpID;
+Machine.add(me.dir() + "simple arp1.ck") => int arp2ID;
+Machine.add(me.dir() + "arploop2.ck") => int arploop2ID;
+Machine.add(me.dir() + "chordfinal2.ck") => int chordfinal1ID;
+Machine.add(me.dir() + "fx1.ck") => int fx1ID;
+Machine.add(me.dir() + "drum.ck") => int drum1ID;
+Machine.add(me.dir() + "drum44.ck") => int drum44ID;
+Machine.add(me.dir() + "vocal chop1.ck") => int vocalchopID;
+Machine.add(me.dir() + "randomarp.ck") => int randomarpID;
+Machine.add(me.dir() + "bass3.ck") => int bass3ID;
+Machine.add(me.dir() + "leadpluck.ck") => int leadpluckID;
+Machine.add(me.dir() + "leadpluck2.ck") => int leadpluck2ID;
